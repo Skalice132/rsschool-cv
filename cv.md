@@ -37,3 +37,7 @@ if __name__ == '__main__':
 
 ### Higher education:
 * 2015 Samara State Technical University, Faculty of Automation and Information Technology, Engineer.
+
+### Languages:
+* Russian — Native.
+* English — A2 — Elementary.
