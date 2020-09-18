@@ -15,8 +15,8 @@
 * Bootstrap
 ##### JavaScript
 ##### Python
-* Flask
 * Django
+* Flask
 ##### PHP
 * Laravel
 ##### SQL
